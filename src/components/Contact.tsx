@@ -73,8 +73,8 @@ const Contact = () => {
               <li className="flex items-start gap-3">
                 <Phone size={18} className="text-amber-700 mt-1 shrink-0" />
                 <div>
-                  <a href="tel:+919865253655" className="block hover:text-amber-900">Ramajayam: +91 98652 53655</a>
-                  <a href="tel:+918667762656" className="block hover:text-amber-900 mt-1">Sudharshan: +91 86677 62656</a>
+                  <a href="tel:+919865253655" className="block hover:text-amber-900">Rtr. Vivek Matthew V: +91 93635 11950</a>
+                  <a href="tel:+918667762656" className="block hover:text-amber-900 mt-1">Rtr. Harini K: +91 94455 86165</a>
                 </div>
               </li>
               <li className="flex items-start gap-3">
